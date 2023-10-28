@@ -1,5 +1,5 @@
 # Doc_suggestion
-# Documents suggestions based on users document 
+# Documents suggestions based on user's document 
 
 This code takes two parameters the first parameter is title of the document and the second parameter is text  from the document. 
 
@@ -12,7 +12,7 @@ The code Returns list of dictionary containing latest 5 results as mentioned abo
 
 The dictionary will have structure as follows
 
-#    KEY                           CONTENT
+    KEY                           CONTENT
    title                     Title of the article 
 
    link                      Link to the article
@@ -23,9 +23,9 @@ The dictionary will have structure as follows
 
    related_articles_link     Related article links 
 
-#   Resource                  Dictonary 
+   Resource                  Dictonary 
 Resource dictonary content
-#      KEY                            CONTENT
+      KEY                            CONTENT
      r_title                   Title of the resource file 
 
      r_link                    Link to resource file
