@@ -12,23 +12,25 @@ The code Returns list of dictionary containing latest 5 results as mentioned abo
 
 The dictionary will have structure as follows
 
-    KEY                           CONTENT
-   title                     Title of the article 
+    KEY                                            CONTENT
+   title                                     Title of the article
 
-   link                      Link to the article
+   link                                      Link to the article
 
-   publication_info          Publication information 
+   publication_info                          Publication information 
 
-   latest_versions_link      Latest version link 
+   latest_versions_link                      Latest version link 
 
-   related_articles_link     Related article links 
+   related_articles_link                     Related article links 
 
-   Resource                  Dictonary 
+   Resource                                  Dictonary 
+   
 Resource dictonary content
-      KEY                            CONTENT
-     r_title                   Title of the resource file 
 
-     r_link                    Link to resource file
+      KEY                                          CONTENT
+     r_title                                 Title of the resource file 
+
+     r_link                                  Link to resource file
 
 
 Requirements.txt file is included for installing all requirements.
