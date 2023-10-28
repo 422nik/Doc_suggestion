@@ -1,5 +1,5 @@
 # Doc_suggestion
-# Documents suggestions based on user's document 
+# Document suggestions based on user's document 
 
 This code takes two parameters the first parameter is title of the document and the second parameter is text  from the document. 
 
