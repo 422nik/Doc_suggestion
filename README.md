@@ -12,7 +12,7 @@ The code Returns list of dictionary containing latest 5 results as mentioned abo
 
 The dictionary will have structure as follows
 
-    KEY                                CONTENT
+    KEY                                            CONTENT
     
     "title"                        :            Title of the article
 
@@ -28,7 +28,7 @@ The dictionary will have structure as follows
    
 Resource dictonary content
 
-      KEY                              CONTENT
+      KEY                                          CONTENT
      "r_title"                    :            Title of the resource file 
 
      "r_link"                     :            Link to resource file
